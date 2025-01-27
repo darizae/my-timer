@@ -5,7 +5,7 @@ A simple Python Timer utility.
 ## Installation
 
 ```bash
-pip install mytimer
+pip install my-timer-daniel
 ```
 
 ## Usage

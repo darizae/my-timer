@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "mytimer"
+name = "my-timer-daniel"
 version = "0.1.0"
 description = "A simple Timer class to measure execution time."
 authors = [
