@@ -60,7 +60,7 @@ class Timer:
         end_time = self.end_time if self.end_time else time.time()
         return self._format_time(*self._compute_elapsed_time(self.start_time, end_time))
 
-    def print_elapsed_time(self) -> str:
+    def print_elapsed_time(self) -> None:
         print(f"Processing completed in {self.format_elapsed_time()}")
 
     @staticmethod
