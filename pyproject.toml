@@ -20,4 +20,4 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/YourUsername/mytimer"  # Or wherever the project is hosted
+"Homepage" = "https://github.com/darizae/my-timer"
