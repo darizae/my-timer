@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mytimer"
+version = "0.1.0"
+description = "A simple Timer class to measure execution time."
+authors = [
+  { name = "Daniel Ariza", email = "danielarizae@gmail.com" }
+]
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.6"
+keywords = ["timer", "time", "utilities"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/YourUsername/mytimer"  # Or wherever the project is hosted
