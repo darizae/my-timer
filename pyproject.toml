@@ -10,7 +10,7 @@ authors = [
   { name = "Daniel Ariza", email = "danielarizae@gmail.com" }
 ]
 readme = "README.md"
-license = "MIT"
+license = { text = "MIT" }
 requires-python = ">=3.6"
 keywords = ["timer", "time", "utilities"]
 classifiers = [
